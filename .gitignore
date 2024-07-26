@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environmental variables
+.env
+
+# MacOS
+.DS_Store
+
+# MongoDB
+*.lock
+data/db/
+data/configdb/
+
+# VS Code
+.vscode/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Misc
+*.swp
